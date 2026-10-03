@@ -142,15 +142,6 @@ There's nothing to set. StartCleaner follows these on its own:
 
 StartCleaner does **not** update itself. At startup it checks for a new version and shows a notice; clicking **[Yes]** opens the download page and closes the program. New versions are released manually after internal testing and announced on the [StartCleaner page](https://kilho.net/startcleaner). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 2.0.0 | 2026-10-01 | Rebuilt in Rust for a smoother, more reliable experience, manage startup programs and services quickly in one place, refined lists and workflows |
-| 1.1.2 | 2026-09-22 | Re-checks an item's state before deleting to prevent accidental removal, more reliable loading of update information |
-| 1.1.1 | 2026-07-20 | Removes startup programs together with their remaining traces in one step, stronger confirmation and safeguards before deleting, removed items no longer reappear in the list |
-| 1.1.0 | 2026-04-30 | Much faster startup list loading, better responsiveness, faster Task Scheduler loading, better overall stability |
-
 ## License
 
 StartCleaner is **freeware**. Use it for free without restriction anywhere — at work, at home, in government offices or at school — and redistribute it freely.

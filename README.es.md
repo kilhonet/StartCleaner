@@ -142,15 +142,6 @@ No hay nada que configurar. StartCleaner sigue por sí mismo lo siguiente:
 
 StartCleaner **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; si pulsa **[Sí]**, abre la página de descarga y cierra el programa. Las versiones nuevas se publican manualmente tras una verificación interna y se anuncian en la [página de StartCleaner](https://kilho.net/startcleaner). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
-**Historial de versiones**
-
-| Versión | Fecha | Cambios |
-|---|---|---|
-| 2.0.0 | 2026-10-01 | Reescrito en Rust para un uso más fluido y estable, gestión rápida de programas de inicio y servicios en un solo lugar, listas y flujo de uso mejorados |
-| 1.1.2 | 2026-09-22 | Vuelve a comprobar el estado antes de eliminar para evitar borrados accidentales, carga más fiable de la información de actualizaciones |
-| 1.1.1 | 2026-07-20 | Elimina de una vez los programas de inicio junto con sus restos, confirmación y protecciones reforzadas antes de eliminar, los elementos eliminados ya no reaparecen en la lista |
-| 1.1.0 | 2026-04-30 | Lista de programas de inicio mucho más rápida, mejor respuesta, carga más rápida del Programador de tareas, mayor estabilidad general |
-
 ## Licencia
 
 StartCleaner es **freeware**. Puede usarlo gratis y sin restricciones en cualquier lugar — en la oficina, en casa, en organismos públicos o en la escuela — y redistribuirlo libremente.
